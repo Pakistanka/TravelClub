@@ -1,6 +1,6 @@
 # TravelClub
 
-That's a landing page for travelClub.
+That's a landing page for a travel club. You can see it at https://pakistanka.github.io/TravelClub/
 
 ## Installation
 
